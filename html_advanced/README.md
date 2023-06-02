@@ -1,12 +1,6 @@
-HTML, advanced
 In this project, I replicated a figma design with html
-/* Bitmap */
+In this project, I replicated a figma design with html
 
-position: absolute;
-left: -0.28%;
-right: -0.28%;
-top: -6.04%;
-bottom: 9.52%;
 
-background: radial-gradient(85.9% 85.9% at 50% 14.1%, rgba(41, 48, 61, 0.0001) 0%, #071629 100%), #000000;
-background-blend-mode: normal, color;
+## Figma Design
+<img width="1440" alt="School Page@2x" src="https://user-images.githubusercontent.com/67793634/192224177-3a136d6d-9c94-426a-8bda-370f44123684.png">
