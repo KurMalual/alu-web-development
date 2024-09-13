@@ -31,4 +31,3 @@ class MRUCache(BaseCaching):
             self.stack.remove(key)
             self.stack.append(key)
         return self.cache_data.get(key)
-    
